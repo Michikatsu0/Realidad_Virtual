@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="publicity_card" size="2880.000000 1620.000000" />
+    <ImageTarget name="Donot" size="473.000000 800.000000" />
+    <ImageTarget name="No" size="473.000000 1024.000000" />
+    <ImageTarget name="yes" size="694.000000 553.000000" />
+  </Tracking>
+</QCARConfig>
