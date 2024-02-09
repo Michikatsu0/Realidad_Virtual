@@ -5,10 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Publicidad_Target.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Publicidad_GroundPlane.unity
     guid: a2fa16180ed98be40b3af92c81f43d75
-  m_configObjects: {}
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 1fbe6f05ce16ea0478a873a181b93ec9,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 2a3cee2fc6b32674e96d3815842e6a19,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 70697c011038a514aace3747c7e9fed7,
+      type: 2}
